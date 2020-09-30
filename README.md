@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=zsjohny)
 
-My nickname is Johny. I'm a DevOps Architect and IT Professional with over 7 years of experience. I have professional experience with Python, Shell, kubernetes, Helm/Chart, Docker, , Django, Flask, Salt-ssh, Ansible、SonarQube、Pipeline、Groovy 、Jumpserver、SpringCloud、Nodejs、Hbase、Tableau、Redis、Apm、Zookeeper、Kafka and many more. I have mastered many areas of programming, such as web development and server-side programming.
+My nickname is Johny. I'm a DevOps Architect and IT Professional with over 8 years of experience. I have professional experience with Python, Shell, kubernetes, Helm/Chart, Docker, , Django, Flask, Salt-ssh, Ansible、SonarQube、Pipeline、Groovy 、Jumpserver、SpringCloud、Nodejs、Hbase、Tableau、Redis、Apm、Zookeeper、Kafka and many more. I have mastered many areas of programming, such as web development and server-side programming.
 
 ####  🔭 I’m currently working on 
   - [Event-driven DevOps Platform](https://github.com/zsjohny/Apollo)
